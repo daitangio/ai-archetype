@@ -1,4 +1,4 @@
-./mvnw archetype:generate                                  \
+./mvnw archetype:generate   --batch                               \
   -DarchetypeGroupId=com.gioorgi                \
   -DarchetypeArtifactId=ai-archetype          \
   -DarchetypeVersion=1.0-SNAPSHOT               \
